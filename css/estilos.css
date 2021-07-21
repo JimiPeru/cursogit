@@ -1,0 +1,13 @@
+body{
+
+    background-color: darkgray;
+}
+
+#idcenter{
+    vertical-align: middle;
+    height: 100px;
+    color: blue;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 50px;
+}
